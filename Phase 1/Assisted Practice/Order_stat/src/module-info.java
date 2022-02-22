@@ -1,0 +1,2 @@
+module Order_stat {
+}
